@@ -1,0 +1,2 @@
+PORT= 5000
+DB_URI = mongodb://35.78.232.55:27017/crud
